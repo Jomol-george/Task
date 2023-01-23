@@ -1,0 +1,23 @@
+/* Auther:JOMOL GEORGE
+DATE:20-01-2023 */
+
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+.fulltask {
+    background-color: #f9f9f9;
+    width: 100%;
+    border-top: 5px solid red;
+}
+.taskdiv {
+    margin: auto;
+    width: 90%;
+    background-color: #e3f6ff;
+    display: flex;
+}
+.task1 img {
+    width: 90%;
+    float: right;
+}
+.para {
+}
